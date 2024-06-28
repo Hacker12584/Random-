@@ -43,7 +43,7 @@ module.exports = {
     version: "1.0",
     author: "Vex_Kshitiz",
     role: 0,
-    longDescription: " nobita ai " ,
+    longDescription: " Gilgamesh Ultra ai " ,
     category: "ai",
     guide: {
       en: "{p}cmdName [prompt]"// add guide based on your ai name
