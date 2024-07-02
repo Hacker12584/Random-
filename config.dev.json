@@ -18,13 +18,14 @@
   },
   "adminBot": [
     "100073129302064"
+    "100073129302064"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Gilgamesh UltraBot 🗡️",
+  "nickNameBot": "Yakiro",
   "prefix": "+",
   "database": {
     "type": "sqlite",
